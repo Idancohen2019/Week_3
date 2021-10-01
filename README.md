@@ -1,5 +1,4 @@
-# Week_03
-# Bonus, part 1
+# Week_03_Bonus
 
 ## My project in C# .NET core
 
